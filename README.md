@@ -1,8 +1,10 @@
 # 香港疫情数据可视化大屏
 
+> **🎯 项目说明**：本项目完全使用 [Cursor](https://cursor.sh/) AI 编程助手生成，展示了 AI 辅助开发在数据可视化领域的强大能力。
+
 ## 📊 项目简介
 
-这是一个基于Flask + ECharts的香港疫情数据可视化大屏，实时展示疫情动态和关键指标。
+这是一个基于Flask + ECharts的香港疫情数据可视化大屏，实时展示疫情动态和关键指标。项目从需求分析、代码编写、界面设计到部署发布，全程由 Cursor AI 协助完成。
 
 ## 🎯 功能特性
 
@@ -149,7 +151,7 @@ git add .
 git commit -m "Initial commit: 香港疫情数据可视化大屏"
 
 # 添加远程仓库
-git remote add origin https://github.com/yourusername/your-repo-name.git
+git remote add origin https://github.com/YujunGit/HongKong-covid-visualization.git
 
 # 推送到 GitHub
 git push -u origin main
@@ -158,10 +160,10 @@ git push -u origin main
 ### 从 GitHub 克隆项目
 ```bash
 # 克隆仓库
-git clone https://github.com/yourusername/your-repo-name.git
+git clone https://github.com/YujunGit/HongKong-covid-visualization.git
 
 # 进入项目目录
-cd your-repo-name
+cd HongKong-covid-visualization
 
 # 创建虚拟环境
 python3 -m venv venv
